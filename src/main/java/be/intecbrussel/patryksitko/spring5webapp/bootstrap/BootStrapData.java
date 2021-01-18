@@ -1,15 +1,15 @@
-package sitko.patryk.spring5webapp.bootstrap;
+package be.intecbrussel.patryksitko.spring5webapp.bootstrap;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
-import sitko.patryk.spring5webapp.domain.Address;
-import sitko.patryk.spring5webapp.domain.Author;
-import sitko.patryk.spring5webapp.domain.Book;
-import sitko.patryk.spring5webapp.domain.Publisher;
-import sitko.patryk.spring5webapp.repositories.AuthorRepository;
-import sitko.patryk.spring5webapp.repositories.BookRepository;
-import sitko.patryk.spring5webapp.repositories.PublisherRepository;
+import be.intecbrussel.patryksitko.spring5webapp.domain.Address;
+import be.intecbrussel.patryksitko.spring5webapp.domain.Author;
+import be.intecbrussel.patryksitko.spring5webapp.domain.Book;
+import be.intecbrussel.patryksitko.spring5webapp.domain.Publisher;
+import be.intecbrussel.patryksitko.spring5webapp.repositories.AuthorRepository;
+import be.intecbrussel.patryksitko.spring5webapp.repositories.BookRepository;
+import be.intecbrussel.patryksitko.spring5webapp.repositories.PublisherRepository;
 
 @Component
 public class BootStrapData implements CommandLineRunner {

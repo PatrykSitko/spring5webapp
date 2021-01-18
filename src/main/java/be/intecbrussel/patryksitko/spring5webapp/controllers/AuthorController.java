@@ -1,10 +1,10 @@
-package sitko.patryk.spring5webapp.controllers;
+package be.intecbrussel.patryksitko.spring5webapp.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import sitko.patryk.spring5webapp.repositories.AuthorRepository;
+import be.intecbrussel.patryksitko.spring5webapp.repositories.AuthorRepository;
 
 @Controller
 public class AuthorController {

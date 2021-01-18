@@ -1,4 +1,4 @@
-package sitko.patryk.spring5webapp;
+package be.intecbrussel.patryksitko.spring5webapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

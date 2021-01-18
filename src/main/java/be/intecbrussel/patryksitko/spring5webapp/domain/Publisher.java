@@ -1,4 +1,4 @@
-package sitko.patryk.spring5webapp.domain;
+package be.intecbrussel.patryksitko.spring5webapp.domain;
 
 import java.util.HashSet;
 import java.util.Set;
